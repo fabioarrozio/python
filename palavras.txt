@@ -1,0 +1,10 @@
+banana
+melancia
+morango
+pera
+batata
+cenoura
+cadeira
+toxico
+celular
+
